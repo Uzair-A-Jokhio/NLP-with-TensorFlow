@@ -1,3 +1,5 @@
 tensorflow
 ipython
 pytest
+tensorflow-datasets
+numpy
